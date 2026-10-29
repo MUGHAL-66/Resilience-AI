@@ -1,0 +1,21 @@
+name: resilience_ai
+description: Offline-first emergency communication foundation.
+publish_to: none
+version: 0.1.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.4.1
+  path: ^1.9.0
+  geolocator: ^14.1.2
+  flutter_ble_peripheral: 3.1.0
+  flutter_ble_central: 1.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  sqflite_common_ffi: ^2.3.4+4
+flutter:
+  uses-material-design: true

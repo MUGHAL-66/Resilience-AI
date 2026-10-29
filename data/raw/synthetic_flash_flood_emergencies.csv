@@ -1,0 +1,5 @@
+sample_case_id,injury_type,bleeding_status,consciousness_status,trapped,emergency_description,latitude,longitude,timestamp,record_type
+SYN-001,major,severe,conscious,true,Water entering the room,24.8607,67.0011,2026-01-15T10:30:00Z,synthetic
+SYN-002,unknown,unknown,unknown,false,Need help on roof,,,2026-01-15T10:45:00Z,synthetic
+SYN-003,minor,none,conscious,false,Stranded with family,31.5204,74.3587,2026-01-15T11:00:00Z,synthetic
+SYN-004,none,none,unconscious,true,Person unresponsive in vehicle,,,2026-01-15T11:15:00Z,synthetic
